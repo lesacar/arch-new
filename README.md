@@ -1,1 +1,2 @@
-# arch-new
+# bsd
+bsd script
